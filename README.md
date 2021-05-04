@@ -1,2 +1,2 @@
 # Driver_RPi
-A small Rpi driver operating the JC port of the PmodHat https://reference.digilentinc.com/reference/add-ons/pmod-hat/start
+A small Raspi driver written to operate the JC port of the PmodHat https://reference.digilentinc.com/reference/add-ons/pmod-hat/start
